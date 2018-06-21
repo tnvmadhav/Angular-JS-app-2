@@ -1,5 +1,5 @@
 angular.module('stopwatch', []).
-  directive('khs', function($timeout) {
+  directive('lms', function($timeout) {
     return {
       restrict: 'E',
       transclude: true,
